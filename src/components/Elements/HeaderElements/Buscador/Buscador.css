@@ -1,0 +1,28 @@
+.div-searcher{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin-right: 10%;
+    
+
+}
+.searcher{
+    border-color:#749720;
+    border: 5px solid rgba(255, 255, 255, 0.04);
+    box-shadow: 9px 6px 3px 1px rgba(146, 146, 146, 0.08);
+    outline: none;
+    border-radius: 5px;
+    height: 30px;
+}
+.searcher-button{
+    border-color:#749720;
+    background-color: rgb(216, 179, 86, 0.6);
+    box-shadow: 9px 6px 3px 1px rgba(146, 146, 146, 0.08);
+    color: white;
+    border: 1px;
+    margin-left: 10px;
+    border-radius: 5px;
+    height: 30px;
+
+}

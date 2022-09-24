@@ -1,0 +1,18 @@
+.div-logo-logo{
+    position: relative;
+    Width:75px;
+    Height:70px;
+    margin-left: 30px;
+    object-fit: cover;
+}
+
+.div-logo{
+
+  
+    display: flex;
+    flex-direction:row;
+    
+    align-items: center;
+    justify-content: center;
+    
+}

@@ -1,0 +1,15 @@
+.add-fruits{
+    display: flex;
+    flex-direction: row;
+    justify-content:center;
+    align-items: center;
+    margin-bottom:10px;
+}
+.button-card{
+    font-size: 20px;
+    border-radius: 17px;
+   background-color:#dfca40;
+   color: #346E15;
+   border: none;
+   cursor: pointer;
+}

@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Crimson+Text&family=Dancing+Script:wght@400;500;600&family=Poppins&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+
+.div-banner-fruit{
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;   
+}
+
+.banner-fruit{
+width: 100%;
+height: 100%;
+object-fit: contain;
+max-width: 500px;
+}
+
+.frase{
+color: rgb(254, 255, 226);
+font-family: 'Pacifico', cursive;
+position: absolute;
+font-size: 4em;
+line-height: 0.8em;
+text-align: center;
+text-shadow: 3px 3px 0  rgb(154, 154, 154), 0px 0px 30px rgba(0, 0, 0, 0.5)  ;
+}
+
+.frase span{
+    
+    color: rgb(252, 205, 160);
+    font-family: 'Pacifico', cursive;
+}

@@ -1,0 +1,53 @@
+body{
+    background-color: #FFFF;
+}
+header{
+    width: 100%;
+    overflow: hidden;
+}
+.header-fruits{
+    position: relative;
+    display: flex;
+    flex-direction:row;
+    justify-content: space-between;
+    align-items: center;
+    Height:100px;
+   
+    
+}
+.div-logo-logo{
+    position: relative;
+    Width:75px;
+    Height:70px;
+    margin-left: 30px;
+    object-fit: cover;
+}
+
+.div-logo{
+
+    margin-top:1%;
+    display: flex;
+    flex-direction:row;
+    
+    align-items: center;
+    justify-content: center;
+    
+}
+.logo-header{
+    Width:100%;
+    Height:100%;
+    margin-bottom: 5%;
+}
+
+.fruit-menu{
+    display: flex;
+    flex-direction:row;
+    justify-content:space-around;
+    width: 750px;
+    Height: 90px;
+    
+    color: #35524a;
+    font-weight: 700;
+   margin-right: 10%;
+    
+}

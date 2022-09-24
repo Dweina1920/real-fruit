@@ -1,0 +1,22 @@
+.button-cart{
+    font-family: "FontAwesome";
+	content: "f217";
+	margin-right:10px;
+}
+.button-cart{
+    z-index: 1;
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    color: white;
+    margin-right:3%;
+    border-color: white;
+}
+.icon-shop-cart {
+    width: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+ 
+
+}
