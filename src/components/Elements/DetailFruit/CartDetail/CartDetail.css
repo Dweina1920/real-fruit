@@ -1,0 +1,38 @@
+.div-cart-detail{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    max-width: 400px;
+}
+.price-detail{
+    font-size: 60px;
+    color: #749720;
+    margin-bottom: 30px;
+}
+.add-fruits{
+    display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: flex-end;
+}
+.button-card-cart{
+    width: 150px;
+    font-size: 17px;
+    border-radius: 15px;
+   background-color:#dfca40;
+   color: #346E15;
+   border: none;
+   cursor: pointer;
+   margin-bottom:10px;
+}
+.volver{
+    text-decoration: none;
+    padding: 10px;
+    color: #346E15;
+    font-size: 17px;
+    
+    background-color: #dfca40;
+    border-radius: 14px;
+    
+}

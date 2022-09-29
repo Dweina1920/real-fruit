@@ -1,0 +1,33 @@
+
+.div-registrate{
+   display: flex;
+   flex-direction: column;
+   justify-content:flex-start;
+   align-items:flex-start;
+   margin-left: 450px;
+    
+}
+.titulo-registrate{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    line-height : 50px;
+
+}
+.form-registrarse{
+    display: flex;
+    flex-direction: row;
+    margin-top:30px;
+}
+input{
+    margin-left: 30px;
+}
+.aceptar{
+background-color: #e7e7e7;
+color: black;
+width: 70px;
+border-radius: 5px;
+justify-content: center;
+/* Gray */
+ 
+}

@@ -1,0 +1,10 @@
+.image-detail{
+    width: 250px;
+    height: 400px;
+    object-fit: contain;
+}
+.div-image-detail{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

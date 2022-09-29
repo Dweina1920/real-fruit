@@ -4,8 +4,15 @@
 }
 
 .container-card{
-    margin-top: 2%;
-    margin-left: 5%;
+    margin-right: auto;
+    margin-left: auto;
+    width: 100%;
+    max-width: 1024px;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap:25px;
+    justify-items: center;
+
 }
 .card{
     width: 200px;
@@ -14,6 +21,7 @@
     border-radius: 10px;
     background: #FEFEFE;
 box-shadow: 6px 6px 0px 6px rgba(0, 0, 0, 0.25);
+
 }
 .div-image-card{
     width: 200px;
@@ -25,6 +33,21 @@ box-shadow: 6px 6px 0px 6px rgba(0, 0, 0, 0.25);
     display: block;
     max-width: 100%;
     height: auto;
+}
+.banner-zone{
+    display: flex;
+    flex-direction: row;
+}
+@media (max-width: 500px) {
+    .container-card{
+       display: grid;
+       grid-template-columns: 1fr;
+       justify-content: center;
+       align-items: center;
+
+
+    }
+
 }
 
 

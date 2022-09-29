@@ -1,7 +1,8 @@
 import "./PriceCard.css"
-function PriceCard(){
+import React from "react";
+function PriceCard(props){
     return(
-        <p className="price-card">5€/Kg</p>
+        <p className="price-card">{props.precio}</p>
 
     )
 }

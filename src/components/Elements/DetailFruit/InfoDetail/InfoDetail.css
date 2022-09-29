@@ -1,0 +1,24 @@
+*{
+    line-height: 30px;
+}
+
+.div-detail-fruit{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    
+}
+.div-info-detail{
+    max-width: 300px;
+}
+.name{
+    font-size: 60px;
+    color: #749720;
+    padding-top: 50px;
+
+}
+.origin{
+    font-size: 20px;
+    color: #749720;
+    padding-top: 20px;
+}

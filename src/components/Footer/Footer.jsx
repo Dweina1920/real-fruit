@@ -9,7 +9,6 @@ function Footer(){
         <footer className="footer-fruits">
             <Logo/>
         <div className="fruit-menu">
-            <p>Sobre nosotros</p>
             <p>Contáctanos</p>
             <p>Política de privacidad</p>
             

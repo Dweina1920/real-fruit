@@ -11,12 +11,14 @@
     color: white;
     margin-right:3%;
     border-color: white;
+    align-items: center;
+    justify-content: center;
+    object-fit: contain;
 }
 .icon-shop-cart {
     width: 50px;
     display: flex;
-    align-items: center;
-    justify-content: center;
+
  
 
 }

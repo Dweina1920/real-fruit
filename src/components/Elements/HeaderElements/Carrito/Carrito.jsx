@@ -1,4 +1,4 @@
-import ImagenCarrito from "../../../../img/carrito.png"
+import ImagenCarrito from "../../../../img/carrito3.png"
 import "../Carrito/Carrito.css"
 function Carrito(){
     return(

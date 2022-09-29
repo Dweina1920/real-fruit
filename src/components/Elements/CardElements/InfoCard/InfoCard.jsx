@@ -1,9 +1,12 @@
 import "../InfoCard/InfoCard.css"
-function InfoCard(){
+import React from "react";
+import { Link } from "react-router-dom";
+function InfoCard(props){
     return(
         <>
-        <p className="fruit-name">Mango</p>
-        <p className="fruit-creator">Cultivadas por Juan</p>
+        
+        <Link to='/detalle-fruta' className="fruit-name" id="name-fruit" >{props.nombre}</Link>
+        <p className="fruit-creator">{props.origin}</p>
         </>
     )
 }

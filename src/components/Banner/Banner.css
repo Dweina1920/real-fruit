@@ -32,3 +32,9 @@ text-shadow: 3px 3px 0  rgb(154, 154, 154), 0px 0px 30px rgba(0, 0, 0, 0.5)  ;
     color: rgb(252, 205, 160);
     font-family: 'Pacifico', cursive;
 }
+
+@media all and (min-width: 300px) and (max-width: 1000px) {
+.frase{
+    max-width: 350px;
+}
+}

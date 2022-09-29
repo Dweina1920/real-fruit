@@ -4,10 +4,11 @@
     Height:70px;
 }
 .logo-header-footer{
-    Width:75px;
-    Height:70px;
-    object-fit: contain;
-    
+  
+        Width:100%;
+        Height:100%;
+        margin-bottom: 5%;
+      
 }
 
 .footer-fruits{

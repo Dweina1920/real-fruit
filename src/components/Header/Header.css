@@ -27,7 +27,7 @@ header{
 
     margin-top:1%;
     display: flex;
-    flex-direction:row;
+    
     
     align-items: center;
     justify-content: center;
@@ -37,6 +37,7 @@ header{
     Width:100%;
     Height:100%;
     margin-bottom: 5%;
+    
 }
 
 .fruit-menu{

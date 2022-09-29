@@ -6,10 +6,12 @@
     margin-bottom:10px;
 }
 .button-card{
-    font-size: 20px;
-    border-radius: 17px;
+    width: 30px;
+    font-size: 17px;
+    border-radius: 50%;
    background-color:#dfca40;
    color: #346E15;
    border: none;
    cursor: pointer;
+   margin: 10px;
 }
