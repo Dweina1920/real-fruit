@@ -40,7 +40,7 @@ He ido haciendo una lista de todo lo que me gustaría que tubiese la Web, y los 
 ### Detalles del diseño Web
 
 ### Paleta de colores
-<img src="../src/img/colors.png" alt="paleta de colores">
+<img src="/src/img/colors.png" alt="paleta de colores">
 
 ### Fuente
 
@@ -48,7 +48,7 @@ font-family: 'Montserrat', sans-serif;
 
 ### Nuestro Logo
 
-<img src="../src/img/logo.png" alt="logo">
+<img src="/src/img/logo.png" alt="logo">
 
 
 
