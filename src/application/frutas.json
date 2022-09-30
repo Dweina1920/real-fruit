@@ -1,17 +1,17 @@
  
     [
-    {"id": 1, "nombre": "Mango", "precio":"3€/Kg", "description":"Es una fruta muy buena", "origin":"Cosechada por Ana", "img":"mango"},
+    {"id": 1, "nombre": "Mango", "precio":"3€/Kg", "description":"El mango no solo está bueno, sino que además tiene una ventaja fundamental: Es bajo en calorías pero tiene infinidad de nutrientes. Es una fruta jugosa, super sabrosa y contiene fibra. Su sabor, puede variar en dulzor y acidez según lo maduro que esté el mango. Es una fruta tropical, deliciosa y refrescante.", "origin":"Cosechada por Ana", "img":"mango"},
 
-    {"id": 2, "nombre": "Mandarina", "precio": "4€/Kg", "description":"Es una fruta muy buena", "origin":"Cosechada por Marta", "img":"mandarina"},
+    {"id": 2, "nombre": "Mandarina", "precio": "4€/Kg", "description":"La mandarina es un fruto similar a la naranja pero más pequeña y achatada por su base. Su corteza es lisa, brillante color rojo anaranjado y es muy fácil de pelar, incluso con las manos. La mandarina se consume principalmente como fruta en fresco, aunque también son conocidos las conservas de gajos de mandarinas.", "origin":"Cosechada por Marta", "img":"mandarina"},
 
-    {"id": 3, "nombre": "Manzana", "precio": "2€/Kg", "description":"Es una fruta muy buena", "origin":"Cosechada por Leila", "img":"manzana"},
+    {"id": 3, "nombre": "Manzana", "precio": "2€/Kg", "description":" Las manzanas se han cultivado durante miles de años en Asia y Europa y fueron traídas a América del Norte por colonos europeos. La composición de la manzana es un cóctel extraordinario no solo de vitaminas, sino también de otros muchos elementos fundamentales para una buena salud. ", "origin":"Cosechada por Leila", "img":"manzana"},
 
-    {"id": 4, "nombre": "Plátano", "precio": "3€/Kg", "description":"Es una fruta muy buena", "origin":"Cosechada por Clara", "img":"platano"},
+    {"id": 4, "nombre": "Plátano", "precio": "3€/Kg", "description":"El sabor dulce, atractivo tono amarillo y cremosa pulpa de aroma inconfundible convierten al plátano en un reclamo para el paladar, y sus propiedades y beneficios saludables son bien conocidos.Pero entre las ventajas del plátano hay quizá otra que también le ha llevado a conquistar la mesa de los cinco continentes: esta sabrosa fruta, protegida por un higiénico envoltorio natural que la preserva de la contaminación externa y facilita su transporte, resulta tan cómoda de pelar y de comer que se puede disfrutar en cualquier lugar, sin necesidad de servilleta ni de cuchillo.", "origin":"Cosechada por Clara", "img":"platano"},
 
-    {"id": 5, "nombre": "Uvas", "precio": "4€/Kg", "description":"Es una fruta muy buena", "origin":"Cosechada por Sandra", "img":"uvas"},
+    {"id": 5, "nombre": "Uvas", "precio": "4€/Kg", "description":"La uva es uno de los alimentos que caracterizan la dieta mediterránea. Es el fruto de una planta llamada vid (Vitis vinífera) procedente del Asia Menor y que, según la Biblia ya existía antes del Diluvio Universal. Este fruto, en forma de baya globosa, pequeña, de color variable que va del blanquecinoamarillo al negro, se presenta agrupado en racimos. Desde tiempos ancestrales, la uva ha sido una de las frutas más conocidas y apreciadas como tal, así como el zumo o mosto y el vino obtenidos de la misma.", "origin":"Cosechada por Sandra", "img":"uvas"},
 
-    {"id": 6, "nombre": "Naranjas", "precio": "4€/Kg", "description":"Es una fruta muy buena", "origin":"Cosechada por Paula", "img":"naranjas"},
+    {"id": 6, "nombre": "Naranjas", "precio": "4€/Kg", "description":"La naranja es el fruto del naranjo dulce, árbol que pertenece al género Citrus de la familia de las Rutáceas. Esta familia comprende más de 1.600 especies. El género botánico Citrus es el más importante de la familia, y consta de unas 20 especies con frutos comestibles todos ellos muy abundantes en vitamina C, flavonoides y aceites esenciales. Los frutos, llamados hespérides, tienen la particularidad de que su pulpa está formada por numerosas vesículas llenas de jugo.", "origin":"Cosechada por Paula", "img":"naranjas"},
     
-    {"id": 7, "nombre": "Pera", "precio": "1.5€/Kg", "description":"Es una fruta muy buena", "origin":"Cosechada por Raquel", "img":"pera"}
+    {"id": 7, "nombre": "Pera", "precio": "1.5€/Kg", "description":"La pera, nativa de Europa oriental y Asia occidental, fue una de las frutas preferidas de los reyes persas y con posterioridad se aclimató en Grecia, donde los romanos se familiarizaron con su cultivo. Su aporte de vitaminas no es extraordinario, pero contiene 3 mg de vitamina C por cada 100 gramos y también vitamina E, trazas de provitamina A y ácido fólico.", "origin":"Cosechada por Raquel", "img":"pera"}
 ]
  

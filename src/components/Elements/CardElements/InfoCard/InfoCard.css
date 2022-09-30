@@ -1,5 +1,7 @@
 .fruit-name{
     color:#749720;
+    background-color: white;
+    border: none;
 display: flex;
 flex-direction: column;
 align-items: center;

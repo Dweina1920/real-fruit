@@ -2,6 +2,7 @@ import Header from "../../components/Header/Header";
 import Footer from "../../components/Footer/Footer";
 import "../../components/Footer/Footer.css"
 import "../Registrate/Registrate.css"
+import "../../components/Elements/DetailFruit/InfoDetail/InfoDetail.css"
 import React from "react";
 import { Link } from "react-router-dom";
 
@@ -9,6 +10,7 @@ function LogIn(){
     return(
     <div>
         <Header/>
+        <div className="container-login">
       
             <h1 className="titulo-registrate">¿A qué esperas? </h1>
             <h1 className="titulo-registrate">Accede ahora mismo y disfruta de todas nuestras ventajas. </h1>
@@ -27,6 +29,7 @@ function LogIn(){
         <div className="form-registrarse">
         <Link className="aceptar"  to='/' id="registrarse" >Acceder</Link>
         </div>
+    </div>
     </div>
         <div className="footer-login">
         <Footer/>

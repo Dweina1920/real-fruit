@@ -7,9 +7,7 @@ import { useEffect } from "react";
 function CartDetail(){
     let objectCard = JSON.parse(localStorage.getItem("cardSelected"));
 
-    useEffect(() => {
-      console.log(objectCard);
-    });
+   
   
     return(
         <div className="div-cart-detail">

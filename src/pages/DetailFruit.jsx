@@ -1,11 +1,11 @@
 import Header from "../components/Header/Header.jsx";
 import Footer from "../components/Footer/Footer.jsx";
+import "../components/Footer/Footer.css"
 import ImageDetail from "../components/Elements/DetailFruit/ImageDetail/ImageDetail";
 import InfoDetail from "../components/Elements/DetailFruit/InfoDetail/InfoDetail.jsx";
 import "../components/Elements/DetailFruit/InfoDetail/InfoDetail.css";
 import CartDetail from "../components/Elements/DetailFruit/CartDetail/CartDetail.jsx";
-import { useState } from "react";
-import frutas from "../application/frutas.json";
+
 
 function DetailFruit() {
   return (
@@ -23,7 +23,9 @@ function DetailFruit() {
         <ImageDetail />
         <CartDetail />
       </div>
-      <Footer />
+      <div className="footer">
+        <Footer />
+      </div>
     </>
   );
 }

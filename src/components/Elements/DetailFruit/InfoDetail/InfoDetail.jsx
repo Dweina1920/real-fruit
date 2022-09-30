@@ -4,9 +4,7 @@ function InfoDetail(props) {
 
   let objectCard = JSON.parse(localStorage.getItem("cardSelected"));
 
-  useEffect(() => {
-    console.log(objectCard);
-  });
+
 
   return (
     <div className="div-info-detail">

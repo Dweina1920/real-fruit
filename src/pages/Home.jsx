@@ -12,14 +12,7 @@ import { useEffect } from "react";
 function Home() {
   const fruits = frutas;
 
-  const getData = () => {
-    console.log(fruits);
-  };
-
-  const [list, setList] = useState([]);
-  useEffect(() => {
-    getData();
-  }, []);
+  
 
   return (
     <div>
@@ -31,7 +24,7 @@ function Home() {
         {fruits.map((fruta) => {
           return (
             <Card
-              id={fruta.id}
+              key={fruta.id}
               origin={fruta.origin}
               nombre={fruta.nombre}
               precio={fruta.precio}

@@ -1,70 +1,98 @@
-# Getting Started with Create React App
+# Real Fruit
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+_¿Quieres pasar a formar parte de la comunidad más sana de internet?
+Pues registrarse en Real Fruit es el primer paso. Somos una plataforma que nace por la necesidad de tener alimentos sanos en la despensa aunque no se tenga el tiempo para ir a comprarlos, y así, recurrir a la comida basura. Famílias y mayores recurren a nosotros porque encuentran lo que buscan y podamos ofrecérselo con la mayor cercanía posible._
 
-## Available Scripts
+## Comenzando 🚀
 
-In the project directory, you can run:
+_axios: 0.27.2_
+_json: 11.0.0_
+_react: 18.2.0_
+_react-router-dom:6.4.1_
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Instalación 📋
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+_Crear carpeta React e instalar paquetes _
 
-### `npm test`
+```
+npx create-react-app proyecto001
+npm install
+npm install axios
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
+```
+## Figma 
+_La primera idea de frutería online me parecía que tenía sentido que la Web fuese colorida. 
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+_https://www.figma.com/file/oAtlD3Uj9OSbGAuEmR1O4G/Untitled?node-id=0%3A1_
+  
+_Tomé la descisión de rediseñar el estilo de la web, así que lo hice._
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+_https://www.figma.com/file/hdyKf6GVynJzyN86lsBIml/Untitled_
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## ¿Cómo me he organizado? 🛠️
 
-### `npm run eject`
+_He ido haciendo una lista de todo lo que me gustaría que tubiese la Web, y los he ordenado de más a menos importante. He ido tachando todo lo que iba terminando, y seguía al siguiente paso._
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+### Detalles del diseño Web
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+### Paleta de colores
+<img src="../../src/img/colors.png" alt="paleta de colores"></img>
 
-## Learn More
+### Fuente
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+_https://github.com/Dweina1920/real-fruit_
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+### Nuestro Logo
 
-### Code Splitting
+<img src="../../src/img/logo.png" alt="logo"> </img>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-### Analyzing the Bundle Size
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+## Git y GitHub ⚙️
+_https://github.com/Dweina1920/real-fruit_
 
-### Making a Progressive Web App
+_He trabajado sobre la rama principal. He ido haciendo commits para ir guardando la información en cada momento. No he visto necesario crear más ramas ya que el trabajo era individual._
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+## Presentación visual del proyecto
 
-### Advanced Configuration
+_He realizado un apoyo visual con Canva para presentar mi proyecto_
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+_https://www.canva.com/design/DAFNmPagq_M/9SJd_uqFWS-D7xJmJ4J-pQ/edit
 
-### Deployment
+## Deploy con Netlify ⌨️
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+_Desde ya, puedes disfrutar de los alimentos más sanos, en menos de 24 horas._
 
-### `npm run build` fails to minify
+```
+enlace
+```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+## Construido con 🛠️
+
+_Menciona las herramientas que utilizaste para crear tu proyecto_
+
+* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - El framework web usado
+* [Maven](https://maven.apache.org/) - Manejador de dependencias
+* [ROME](https://rometools.github.io/rome/) - Usado para generar RSS
+
+
+## Agradecimientos✒️
+
+_Gracias a todas mis compañeras por ayudarme con las dudas, y espero haberos ayudado en lo que he podido._
+_Gracias a Carlos y Alexandra por la paciencia._
+_Grcias a Lola por los ánimos y las charlas._
+_Gracias a Factoría F5 y a La Ciba._
+
+
+## Expresiones de Gratitud 🎁
+
+* Comenta a otros sobre este proyecto 📢
+* Invita una cerveza 🍺 o un café ☕ a alguien del equipo. 
+* Da las gracias públicamente 🤓.
+* Dona con cripto a esta dirección: `0xf253fc233333078436d111175e5a76a649890000`
+* etc.

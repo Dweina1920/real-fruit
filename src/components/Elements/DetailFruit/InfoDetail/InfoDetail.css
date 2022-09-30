@@ -22,3 +22,12 @@
     color: #749720;
     padding-top: 20px;
 }
+@media (max-width: 500px) {
+    .div-detail-fruit{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+}
+
