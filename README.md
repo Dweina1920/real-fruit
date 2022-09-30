@@ -40,7 +40,7 @@ He ido haciendo una lista de todo lo que me gustaría que tubiese la Web, y los 
 ### Detalles del diseño Web
 
 ### Paleta de colores
-<img src="../src/img/colors.png" alt="paleta de colores"></img>
+<img src="../src/img/colors.png" alt="paleta de colores">
 
 ### Fuente
 
@@ -48,7 +48,7 @@ font-family: 'Montserrat', sans-serif;
 
 ### Nuestro Logo
 
-<img src="../src/img/logo.png" alt="logo"></img>
+<img src="../src/img/logo.png" alt="logo">
 
 
 
@@ -69,16 +69,6 @@ Desde ya, puedes disfrutar de los alimentos más sanos, en menos de 24 horas.
 ```
 enlace
 ```
-
-
-## Construido con 🛠️
-
-Menciona las herramientas que utilizaste para crear tu proyecto
-
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - El framework web usado
-* [Maven](https://maven.apache.org/) - Manejador de dependencias
-* [ROME](https://rometools.github.io/rome/) - Usado para generar RSS
-
 
 ## Agradecimientos✒️
 
