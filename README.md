@@ -67,7 +67,7 @@ _https://www.canva.com/design/DAFNmPagq_M/9SJd_uqFWS-D7xJmJ4J-pQ/edit
 Desde ya, puedes disfrutar de los alimentos más sanos, en menos de 24 horas.
 
 ```
-enlace
+https://dinasnaturalfruit.netlify.app/
 ```
 
 ## Agradecimientos✒️
